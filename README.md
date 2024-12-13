@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and provides a corrected version. The buggy code attempts to sum the elements of an array but goes out of bounds, causing an ArrayIndexOutOfBoundsException. The corrected code fixes the loop condition to prevent this error.
